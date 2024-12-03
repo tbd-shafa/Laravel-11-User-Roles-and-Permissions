@@ -22,25 +22,25 @@
  Run `php artisan serve` for a dev server. Navigate to `http://localhost:8000/`. The application will automatically reload if you change any of the source files.
 
 
-## ⭐️ List of Laravel 11 Tutorial Examples Step by Step: 
+## ⭐️ List of Laravel 11   Examples Step by Step: 
 
 
 <table>
 <tr>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-crud-application-example-tutorialexample.html">Laravel 11 CRUD Application Tutorial</a></td>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-import-export-excel-and-csv-file-tutorialexample.html">Laravel 11 Import Export Excel and CSV File</a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-crud-application-example- example.html">Laravel 11 CRUD Application  </a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-import-export-excel-and-csv-file- example.html">Laravel 11 Import Export Excel and CSV File</a></td>
 </tr>
 <tr>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-user-roles-and-permissions-tutorialexample.html">Laravel 11 User Roles and Permissions</a></td>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-json-web-tokenjwt-api-authentication-tutorialexample.html">Laravel 11 JWT API Authentication</a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-user-roles-and-permissions- example.html">Laravel 11 User Roles and Permissions</a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-json-web-tokenjwt-api-authentication- example.html">Laravel 11 JWT API Authentication</a></td>
 </tr>
 <tr>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html">Laravel 11 Sanctum REST API Authentication</a></td>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-rest-api-with-passport-authentication-tutorialexample.html">Laravel 11 Passport REST API Authentication</a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-rest-api-authentication-using-sanctum- example.html">Laravel 11 Sanctum REST API Authentication</a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-rest-api-with-passport-authentication- example.html">Laravel 11 Passport REST API Authentication</a></td>
 </tr>
 <tr>
     <td>🔗 <a href="https://www.shafa khan/post/laravel-11-generate-pdf-file-using-dompdf-exampleexample.html">Laravel 11 Generate PDF File using DomPDF</a></td>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-yajra-datatables-example-tutorialexample.html">Laravel 11 Yajra Datatables Example Tutorial</a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-yajra-datatables-example- example.html">Laravel 11 Yajra Datatables Example  </a></td>
 </tr>
 <tr>
     <td>🔗 <a href="https://www.shafa khan/post/how-to-create-and-use-trait-in-laravel-11example.html">How to Create and User Trait in Laravel 11?</a></td>
@@ -59,7 +59,7 @@
     <td>🔗 <a href="https://www.shafa khan/post/how-to-upload-files-to-amazon-s3-in-laravel-11example.html">How to Upload Files to Amazon S3 in Laravel 11?</a></td>
 </tr>
 <tr>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-scout-full-text-search-tutorialexample.html">Laravel 11 Scout Full Text Search</a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-scout-full-text-search- example.html">Laravel 11 Scout Full Text Search</a></td>
     <td>🔗 <a href="https://www.shafa khan/post/laravel-11-resize-image-before-upload-exampleexample.html">Laravel 11 Resize Image Before Upload Example</a></td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
     <td>🔗 <a href="https://www.shafa khan/post/how-to-create-event-calendar-in-laravel-11example.html">Laravel 11 Create Event Calendar</a></td>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-crud-with-image-upload-tutorialexample.html">Laravel 11 CRUD with Image Upload</a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-crud-with-image-upload- example.html">Laravel 11 CRUD with Image Upload</a></td>
 </tr>
 <tr>
     <td>🔗 <a href="https://www.shafa khan/post/setup-automatic-daily-database-backup-with-laravel-11example.html">Laravel 11 Automatic Daily Database Backup</a></td>
@@ -87,7 +87,7 @@
     <td>🔗 <a href="https://www.shafa khan/post/how-to-create-zip-archive-file-in-laravel-11example.html">How to Create ZIP Archive File in Laravel 11?</a></td>
 </tr>
 <tr>
-    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-livewire-wizard-multi-step-form-tutorialexample.html">Laravel 11 Livewire Wizard Multi Step Form</a></td>
+    <td>🔗 <a href="https://www.shafa khan/post/laravel-11-livewire-wizard-multi-step-form- example.html">Laravel 11 Livewire Wizard Multi Step Form</a></td>
     <td>🔗 <a href="https://www.shafa khan/post/laravel-11-ckeditor-image-upload-exampleexample.html">Laravel 11 CKeditor Image Upload Example</a></td>
 </tr>
 </table>
