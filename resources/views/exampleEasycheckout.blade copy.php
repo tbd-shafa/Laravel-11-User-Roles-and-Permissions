@@ -37,7 +37,7 @@
             sample form for understanding EasyCheckout (Popup) Payment integration with SSLCommerz.</p>
     </div>
 
-       <div class="row">
+    <div class="row">
         <div class="col-md-4 order-md-2 mb-4">
             <h4 class="d-flex justify-content-between align-items-center mb-3">
                 <span class="text-muted">Your cart</span>
@@ -73,8 +73,7 @@
         </div>
         <div class="col-md-8 order-md-1">
             <h4 class="mb-3">Billing address</h4>
-            <form action="{{ url('/pay') }}" method="POST" class="needs-validation" target="_blank">
-                <input type="hidden" value="{{ csrf_token() }}" name="_token" />
+            <form method="POST" class="needs-validation" novalidate>
                 <div class="row">
                     <div class="col-md-12 mb-3">
                         <label for="firstName">Full name</label>
@@ -164,7 +163,12 @@
                     <label class="custom-control-label" for="save-info">Save this information for next time</label>
                 </div>
                 <hr class="mb-4">
-                <button class="btn btn-primary btn-lg btn-block" type="submit">Continue to checkout (Hosted)</button>
+                <button class="btn btn-primary btn-lg btn-block" id="sslczPayBtn"
+                        token="if you have any token validation"
+                        postdata="your javascript arrays or objects which requires in backend"
+                        order="If you already have the transaction generated for current order"
+                        endpoint="{{ url('/pay-via-ajax') }}"> Pay Now
+                </button>
             </form>
         </div>
     </div>
