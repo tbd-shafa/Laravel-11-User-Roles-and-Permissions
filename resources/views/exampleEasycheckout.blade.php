@@ -164,7 +164,7 @@
                     <label class="custom-control-label" for="save-info">Save this information for next time</label>
                 </div>
                 <hr class="mb-4">
-                <button class="btn btn-primary btn-lg btn-block" type="submit">Continue to checkout (Hosted)</button>
+                <button class="btn btn-primary btn-lg btn-block" type="submit">Example Easy Checkout</button>
             </form>
         </div>
     </div>
